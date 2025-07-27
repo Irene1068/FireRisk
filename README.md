@@ -1,4 +1,4 @@
-![image of an AI predicting a housefilresu](/Fire Risk Prediction with AI Visualized.png)
+![Fire Risk Prediction with AI Visualized.png](https://github.com/Irene1068/FireRisk/blob/main/Fire%20Risk%20Prediction%20with%20AI%20Visualized.png)
 # FireRisk
 ## Summary
 FireRisk AI is an intelligent tool that analyzes 911 and emergency response data to forecast the risk of structure fires or wildfires at specific addresses, helping agencies prioritize prevention and allocate resources more effectively.
