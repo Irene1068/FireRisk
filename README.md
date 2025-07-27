@@ -8,7 +8,11 @@ Problem: Structure and wildfires cause loss of life and property. Early identifi
 ### How common/frequent: 
 In North America alone, tens of thousands of structure fires and hundreds of wildfires threaten communities each year.
 ### Motivation: 
-With a background in public safety and firefighting, I’ve seen how preventable many fire incidents can be. Predictive analytics can save lives and resources.
+With a background in public safety and firefighting, I’ve seen how preventable many fire incidents can be. I also know that there are informal correlations between medical calls to emergency services and situations/lifestyles/behaviors that result in structure fires. 
+
+My specific motivation is a conversation I overheard between two paramedic/firefighters. They had just responded to a medical call: patient they were called to treat had both physical and psychological challenges including living in a 'hoarder'  home. Homes with an excess of clutter, including papers or other flammable material, are very prone to fire. And so, as they got out of the ambulance at the fire station, one said rather sadly to the other, "Well, I know one structure fire we're going to be called to this summer."
+
+That paramedic/firefighters informal, experienced-based predictive analysis is something I would like to be able to instantiate at scale.  Predictive analytics can save lives and resources.
 ### Importance: 
 Fire prevention is often more cost-effective than response. Real-world impact could be immense—especially as climate change increases fire risks.
 ## Data and AI Techniques
